@@ -25,7 +25,7 @@ You just need a modern web browser (Chrome, Firefox, Edge, Safari). No special s
 ### How to Download and Run
 
 1. **Download or clone the repository**
-
+```bash
 git clone https://github.com/yourusername/stock-portfolio.git
-
+```
 2. Open the index.html file in your chosen browser.
